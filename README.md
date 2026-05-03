@@ -13,7 +13,7 @@
 
 ## 📸 Hardware in Action
 
-![Device Setup](assets/device-photo.jpg)
+![Device Setup](assets/device-photo.png)
 
 **Components:**
 - **ESP32** — IoT Gateway (WiFi + RS485)
