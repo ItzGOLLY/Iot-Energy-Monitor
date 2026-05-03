@@ -13,7 +13,7 @@
 
 ## 📸 Hardware in Action
 
-![Device Setup](assets/device-photo.png)
+![Device Setup](assets/Energy-Meter.png)
 
 **Components:**
 - **ESP32** — IoT Gateway (WiFi + RS485)
