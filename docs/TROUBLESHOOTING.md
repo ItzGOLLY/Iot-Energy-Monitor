@@ -58,8 +58,3 @@ Enable verbose logging by adding to `setup()`:
 
 ```cpp
 Serial.setDebugOutput(true);
-
-Getting Help
-Open an issue on GitHub
-Check Zoho IoT Documentation
-Review Schneider EM6400NG Modbus manual
